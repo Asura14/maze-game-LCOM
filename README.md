@@ -6,6 +6,7 @@ Within the course of Computer Laboratories, it was presented to me the developme
 This game is a classic labyrinth in which the player/user controls a character and his aim is to reach a predefined target being that the game only ends when such occurs.
 
 ##Implementation
+Developed in Unix. 
 * PS/2 Mouse (Structs to define the mouse and it's coordinates)
 * PC's timer/counter.
 * PC's video card in text mode 
